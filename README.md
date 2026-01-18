@@ -13,7 +13,7 @@ I'm a 3rd-year **Computer Engineering** student at **Harran University**, passio
 * **Engineering:** SRS/SDD Documentation, Software Architecture.
 
 🚀 **What I'm Up To**
-* 🌱 Improving my skills in **Operating Systems** and **Computer Architecture**.
+* 🌱 Deepening my skills in **Mobile & Web Development** technologies.
 * 🛠️ Developing a **Fitness Tracker App** (combining my engineering skills with my passion for bodybuilding).
 * 📊 Working on **C++ Data Analysis** tools for energy consumption datasets.
 
