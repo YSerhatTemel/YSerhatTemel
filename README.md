@@ -28,5 +28,5 @@ I'm a 3rd-year **Computer Engineering** student at **Harran University**, passio
 [linkedin-icon]: https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white
 [email-icon]: https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white
 
-[![LinkedIn][linkedin-icon]] https://www.linkedin.com/in/yusuf-serhat-temel-2449a1394/ [![Email][email-icon]](mailto:yusuf107tml@gmail.com)
+[![LinkedIn][linkedin-icon]](https://www.linkedin.com/in/yusuf-serhat-temel-2449a1394/)[![Email][email-icon]](mailto:yusuf107tml@gmail.com)
 
